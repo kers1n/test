@@ -28,6 +28,10 @@ int main()
      cout << setw(7) << x << setw(7) << setprecision(3) << y << endl;
      x += h;
     } while (x <= max + h / 2);
+
+//comment
 }
+
+
 
 
